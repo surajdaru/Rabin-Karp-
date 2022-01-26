@@ -1,4 +1,4 @@
-This is the code implementation of the Rabin-Karp algorithm, part of a final project I completed CSCI 1810 at
+This is the code implementation of the Rabin-Karp algorithm, part of a final project I completed for CSCI 1810 at
 Brown University.
 
 rabin_karp.py implements the string-searching algorithm with the use of hashcodes. Each subtring gets its own hashcode
